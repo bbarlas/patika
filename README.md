@@ -1,4 +1,4 @@
-# patika.dev
+# www.patika.dev
 ## Veri Yapıları ve Algoritmalar
 ### Projeler
 #### - Insertion Sort
